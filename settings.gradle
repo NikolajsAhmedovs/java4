@@ -1,0 +1,4 @@
+rootProject.name = 'java4'
+
+include 'ConfigServer'
+include 'ConfigClient'

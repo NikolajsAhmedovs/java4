@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConfigClient/ConfigClient.iml" filepath="$PROJECT_DIR$/.idea/modules/ConfigClient/ConfigClient.iml" group="ConfigClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConfigClient/ConfigClient_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ConfigClient/ConfigClient_main.iml" group="ConfigClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConfigClient/ConfigClient_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ConfigClient/ConfigClient_test.iml" group="ConfigClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/.idea/modules/ConfigServer/ConfigServer.iml" group="ConfigServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConfigServer/ConfigServer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ConfigServer/ConfigServer_main.iml" group="ConfigServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConfigServer/ConfigServer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ConfigServer/ConfigServer_test.iml" group="ConfigServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java4.iml" filepath="$PROJECT_DIR$/.idea/modules/java4.iml" />
+    </modules>
+  </component>
+</project>
